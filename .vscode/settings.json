@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "emscripten.h": "c",
+        "raygui.h": "c",
+        "raylib.h": "c",
+        "stdio.h": "c"
+    }
+}
